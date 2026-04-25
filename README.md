@@ -146,7 +146,7 @@ Si vous voulez simplement tester le gameplay sans installer Unity :
 Si vous souhaitez explorer le code source ou modifier les scènes :
 1. **Cloner le dépôt** :
    ```bash
-   git clone [https://github.com/Adrien219/MySmartDailyApp.git](https://github.com/Adrien219/MySmartDailyApp.git)
+   (https://github.com/Adrien219/Vector-.git)
 ---
 
 ## Arborescence du projet
